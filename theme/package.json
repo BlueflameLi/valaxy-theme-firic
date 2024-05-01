@@ -1,21 +1,21 @@
 {
-  "name": "valaxy-theme-starter",
-  "version": "0.3.0",
+  "name": "valaxy-theme-firic",
+  "version": "0.0.1",
   "packageManager": "pnpm@8.15.4",
   "author": {
-    "email": "me@yunyoujun.cn",
-    "name": "YunYouJun",
-    "url": "https://www.yunyoujun.cn"
+    "email": "blueflamelee@gmail.com",
+    "name": "Blueflame",
+    "url": "https://blueflame.org.cn"
   },
-  "homepage": "https://starter.valaxy.site",
+  "homepage": "https://github.com/BlueflameLi/valaxy-theme-firic",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YunYouJun/valaxy-theme-starter"
+    "url": "https://github.com/BlueflameLi/valaxy-theme-firic"
   },
   "keywords": [
     "valaxy",
     "theme",
-    "starter",
+    "firic",
     "vue"
   ],
   "main": "client/index.ts",
