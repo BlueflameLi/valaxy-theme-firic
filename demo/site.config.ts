@@ -3,7 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   lang: 'zh-CN',
   title: 'Valaxy Theme Firic',
-  url: 'https://blueflameli.github.io/valaxy-theme-firic/',
+  url: 'https://firic.blueflame.org.cn/',
   author: {
     avatar: 'https://img.blueflame.org.cn/images/2021/02/17/fae6fb3481ef.jpg',
     name: 'Blueflame',
