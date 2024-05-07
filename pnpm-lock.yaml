@@ -23,7 +23,7 @@ importers:
       valaxy:
         specifier: ^0.18.5
         version: 0.18.5(@types/markdown-it@13.0.7)(@unhead/shared@1.8.11)(postcss@8.4.35)(typescript@5.3.3)(unhead@1.8.11)
-      valaxy-theme-starter:
+      valaxy-theme-firic:
         specifier: workspace:*
         version: link:theme
       vue-tsc:
@@ -35,7 +35,7 @@ importers:
       valaxy:
         specifier: ^0.18.5
         version: 0.18.5(@types/markdown-it@13.0.7)(@unhead/shared@1.8.11)(postcss@8.4.35)(typescript@5.3.3)(unhead@1.8.11)
-      valaxy-theme-starter:
+      valaxy-theme-firic:
         specifier: workspace:*
         version: link:../theme
     devDependencies:
@@ -51,6 +51,9 @@ importers:
       '@iconify-json/simple-icons':
         specifier: ^1.1.94
         version: 1.1.94
+      date-fns:
+        specifier: ^3.6.0
+        version: 3.6.0
     devDependencies:
       valaxy:
         specifier: ^0.18.5
@@ -2730,6 +2733,10 @@ packages:
     dependencies:
       whatwg-mimetype: 4.0.0
       whatwg-url: 14.0.0
+
+  /date-fns@3.6.0:
+    resolution: {integrity: sha512-fRHTG8g/Gif+kSh50gaGEdToemgfj74aRX3swtiouboip5JDLAyDE9F11nHMIcvOaXeOC6D7SpNhi7uFyB7Uww==}
+    dev: false
 
   /dayjs@1.11.10:
     resolution: {integrity: sha512-vjAczensTgRcqDERK0SR2XMwsF/tSvnvlv6VcF2GIhg6Sx4yOIt/irsr1RDJsKiIyBzJDpCoXiWWq28MqH2cnQ==}

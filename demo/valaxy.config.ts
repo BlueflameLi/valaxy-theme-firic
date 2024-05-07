@@ -6,7 +6,7 @@ import type { ThemeConfig } from 'valaxy-theme-starter'
  * do not use export const config to avoid defu conflict
  */
 export default defineConfig<ThemeConfig>({
-  theme: 'starter',
+  theme: 'firic',
 
   themeConfig: {
     // colors: {
@@ -33,7 +33,7 @@ export default defineConfig<ThemeConfig>({
     ],
 
     footer: {
-      since: 2016,
+      since: 2019,
     },
   },
 })
