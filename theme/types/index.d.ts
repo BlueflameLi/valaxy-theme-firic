@@ -38,6 +38,7 @@ export interface ThemeConfig {
       title: string
     }
 
+    buildTime: string
     /**
      * Powered by valaxy & valaxy-theme-${name}, default is yun
      */

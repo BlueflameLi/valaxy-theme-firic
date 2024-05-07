@@ -11,15 +11,15 @@ export const defaultThemeConfig: ThemeConfig = {
   },
 
   footer: {
-    since: 2022,
+    since: 2024,
     icon: {
       name: 'i-ri-cloud-line',
       animated: true,
       color: 'var(--va-c-primary)',
       url: 'https://sponsors.yunyoujun.cn',
-      title: 'Sponsor YunYouJun',
+      title: 'Blueflame',
     },
-
+    buildTime: '2019-1-1',
     powered: true,
 
     beian: {
@@ -37,7 +37,7 @@ export function themePlugin(options: ResolvedValaxyOptions<ThemeConfig>): Plugin
   const themeConfig = options.config.themeConfig || {}
 
   return {
-    name: 'valaxy-theme-starter',
+    name: 'valaxy-theme-firic',
 
     config() {
       return {
