@@ -63,6 +63,13 @@ export interface ThemeConfig {
    * navbar
    */
   nav: NavItem[]
+
+  banner: {
+    enable: boolean
+    imageUrl: string
+    title: string
+    description: string
+  }
 }
 
 export interface NavItem {

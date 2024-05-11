@@ -29,6 +29,13 @@ export const defaultThemeConfig: ThemeConfig = {
   },
 
   nav: [],
+
+  banner: {
+    enable: true,
+    imageUrl: 'https://img.blueflame.org.cn/images/2022/08/01/62e7ad8f22620.jpg',
+    title: 'Valaxy Theme',
+    description: 'Valaxy Theme for Valaxy',
+  },
 }
 
 // write a vite plugin
