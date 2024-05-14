@@ -32,7 +32,7 @@ export const defaultThemeConfig: ThemeConfig = {
 
   banner: {
     enable: true,
-    urls: ['https://img.blueflame.org.cn/images/2022/08/01/62e7ad8f22620.jpg','https://w.wallhaven.cc/full/l8/wallhaven-l8kwpr.jpg','https://w.wallhaven.cc/full/p9/wallhaven-p955gm.jpg','https://wrxinyue-images.s3.bitiful.net/wallpaper/Genshin%20Impact%20-%20Yae%20Miko%20(4)%20Cybust%20PC.mp4'],
+    urls: ['https://img.blueflame.org.cn/images/2022/08/01/62e7ad8f22620.jpg', 'https://w.wallhaven.cc/full/l8/wallhaven-l8kwpr.jpg', 'https://w.wallhaven.cc/full/p9/wallhaven-p955gm.jpg', 'https://wrxinyue-images.s3.bitiful.net/wallpaper/Genshin%20Impact%20-%20Yae%20Miko%20(4)%20Cybust%20PC.mp4'],
     title: 'Valaxy Theme',
     description: 'Valaxy Theme for Valaxy',
   },
