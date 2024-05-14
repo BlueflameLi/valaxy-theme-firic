@@ -66,7 +66,7 @@ export interface ThemeConfig {
 
   banner: {
     enable: boolean
-    imageUrl: string
+    urls: string | string[]
     title: string
     description: string
   }
