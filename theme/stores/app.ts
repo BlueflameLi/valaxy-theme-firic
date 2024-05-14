@@ -1,13 +1,13 @@
 import { acceptHMRUpdate, defineStore } from 'pinia'
-import { useLocalStorage } from '@vueuse/core';
+import { useLocalStorage } from '@vueuse/core'
 
 export const useFiricAppStore = defineStore('firic-app', () => {
   // global cache for yun
-  const currentWallpaperIndex = useLocalStorage<number>('wallpaperIndex', 0);
+  const currentWallpaperIndex = useLocalStorage<number>('wallpaperIndex', 0)
 
-  const setWallpaperIndex = (index:number) => {
-    currentWallpaperIndex.value = index;
-  };
+  const setWallpaperIndex = (index: number) => {
+    currentWallpaperIndex.value = index
+  }
   return {
     currentWallpaperIndex,
     setWallpaperIndex,
