@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Valaxy Theme Firic</title>
+        <link>https://firic.blueflame.org.cn/</link>
+        <description>Valaxy Theme Firic Preview.</description>
+        <lastBuildDate>Mon, 20 May 2024 03:04:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Valaxy Theme Firic</title>
+            <url>https://img.blueflame.org.cn/images/2021/02/17/fae6fb3481ef.jpg</url>
+            <link>https://firic.blueflame.org.cn/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © Blueflame</copyright>
+        <atom:link href="https://firic.blueflame.org.cn/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[i18n]]></title>
+            <link>https://firic.blueflame.org.cn/posts/i18n</link>
+            <guid>https://firic.blueflame.org.cn/posts/i18n</guid>
+            <pubDate>Mon, 20 May 2024 03:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>You can click this button to toggle locales.</p>
+<p>:::</p>
+<div class="text-center">
+  <!-- <YunTo<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Blueflame)</author>
+        </item>
+        <item>
+            <title><![CDATA[Valaxy Test 文章内容测试]]></title>
+            <link>https://firic.blueflame.org.cn/posts/test</link>
+            <guid>https://firic.blueflame.org.cn/posts/test</guid>
+            <pubDate>Mon, 20 May 2024 03:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: zh-CN</p>
+<p>[[toc]]</p>
+<p>标题是一级标题</p>
+<h2>二级标题 {lang=&quot;zh-CN&quot;}</h2>
+<h3>三级标题 {lang=&quot;zh-CN&quot;}</h3>
+<h4>四级标题 {lang=&quot;zh-C</h4>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Blueflame)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://firic.blueflame.org.cn/posts/hello-valaxy</link>
+            <guid>https://firic.blueflame.org.cn/posts/hello-valaxy</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Hello, Valaxy!</h2>
+<p>English</p>
+<p><strong>English Bold</strong></p>
+<pre><code class="language-ts">import type { ThemeConfig } from 'valaxy-theme-</code></pre>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Blueflame)</author>
+        </item>
+    </channel>
+</rss>
