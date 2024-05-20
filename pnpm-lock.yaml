@@ -54,6 +54,9 @@ importers:
       date-fns:
         specifier: ^3.6.0
         version: 3.6.0
+      typed.js:
+        specifier: ^2.1.0
+        version: 2.1.0
     devDependencies:
       valaxy:
         specifier: ^0.18.7
@@ -5811,6 +5814,10 @@ packages:
     dependencies:
       media-typer: 0.3.0
       mime-types: 2.1.35
+
+  /typed.js@2.1.0:
+    resolution: {integrity: sha512-bDuXEf7YcaKN4g08NMTUM6G90XU25CK3bh6U0THC/Mod/QPKlEt9g/EjvbYB8x2Qwr2p6J6I3NrsoYaVnY6wsQ==}
+    dev: false
 
   /typescript@5.4.5:
     resolution: {integrity: sha512-vcI4UpRgg81oIRUFwR0WSIHKt11nJ7SAVlYNIu+QpqeyXP+gpQJy/Z4+F0aGxSE4MqwjyXvW/TzgkLAx2AGHwQ==}
