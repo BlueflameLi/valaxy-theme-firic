@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, nextTick, onBeforeUnmount, onMounted, ref } from 'vue'
+import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
 import Typed from 'typed.js'
 import { useThemeConfig } from '../composables'
 import { isVideoUrl } from '../utils'
